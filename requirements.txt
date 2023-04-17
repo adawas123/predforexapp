@@ -1,0 +1,13 @@
+numpy
+datetime
+streamlit
+pandas
+mplfinance
+pandas_datareader
+yfinance
+sklearn.preprocessing
+torch
+torch.nn
+torch.nn.functional
+os
+pickle
