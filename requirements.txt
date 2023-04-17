@@ -5,7 +5,7 @@ pandas
 mplfinance
 pandas_datareader
 yfinance
-sklearn.preprocessing
+scikit-learn
 torch
 torch.nn
 torch.nn.functional
