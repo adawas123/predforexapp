@@ -7,4 +7,3 @@ pandas_datareader
 yfinance
 scikit-learn
 torch
-pickle
