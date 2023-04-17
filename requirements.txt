@@ -7,5 +7,4 @@ pandas_datareader
 yfinance
 scikit-learn
 torch
-os
 pickle
