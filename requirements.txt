@@ -7,7 +7,5 @@ pandas_datareader
 yfinance
 scikit-learn
 torch
-torch.nn
-torch.nn.functional
 os
 pickle
